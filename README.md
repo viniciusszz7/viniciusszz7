@@ -2,7 +2,7 @@
 
 **`Cursando Ciências da Computação`**
 
-Meu nome é Vinicius Alves de Carvalho, tenho 20 anos. Concluí o ensino médio na Fundação Bradesco e atualmente curso Ciências da Computação na UDF. Sou muito fã de tecnologia, pois acredito que ela me conecta ao futuro e abre infinitas possibilidades.
+Meu nome é Vinicius Alves de Carvalho, tenho 20 anos. Concluí o ensino médio na Fundação Bradesco e atualmente curso Ciências da Computação na UDF.
 
 ---
 
